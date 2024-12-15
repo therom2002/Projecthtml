@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>First Document</title>
+</head>
+<body>
+    <h1> Tiêu đề H1 </h1>
+    <h2> Tiêu đề H2 </h2>
+    <h3> Tiêu đề H3 </h3>
+    <h4> Tiêu đề H4 </h4>
+    <h5> Tiêu đề H5 </h5>
+    <div>Chào mừng bạn đến với trang web này</div>
+</body>
+</html>
